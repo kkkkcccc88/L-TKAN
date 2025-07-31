@@ -13,3 +13,4 @@ The relevant code has been open-sourced, and the libraries to be installed are l
         All other models: 1024
 
     The optimal sliding window size for GRU is set to 80.
+The optimal hyperparameters for each model have also been preconfigured in the code.
